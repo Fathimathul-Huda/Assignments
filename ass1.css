@@ -1,0 +1,35 @@
+
+
+#main{
+  max-width: 800px;
+  margin: 30px auto;
+  background: white;
+  padding: 20px;
+  box-sizing: 30px;
+  background-color: lightgrey;
+}
+#profile{
+    text-align: center;
+    border-bottom: 5px solid darkcyan;
+    
+}
+
+#about {
+    
+    border-bottom: 5px solid darkcyan;
+}
+#skill h3{
+    border-top: 5px solid darkcyan;
+    padding-bottom: 5px;
+    font-size: 25px;
+    
+}
+#educatio h2{
+    border-top: 5px solid darkcyan;
+}
+#contact{
+    border-top: 5px solid darkcyan;
+}
+#contact h4{
+    font-size: 25px;
+}
