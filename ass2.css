@@ -1,0 +1,32 @@
+#main{
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px 40px;
+    box-shadow: 10px snow;
+    border-radius: 8px;
+    border-bottom: 3px solid black;
+}
+#profile{
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+#content h2{
+    color: black;
+    padding bottom: 20px;
+}
+#content table{
+    width: 100%;
+    border-width: 2px;
+    text-align: left; 
+}
+#content th,td {
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+#content ul,ol{
+    padding-left: 10px;
+    margin: 10px;
+}

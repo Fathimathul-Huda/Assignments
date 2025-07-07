@@ -1,0 +1,37 @@
+#main{
+    text-align: center;
+    margin-top:15%;
+    border: 5px;
+    width: 400px;
+    height: 300px;
+    margin-left: 30%;
+    background-color: lightgray
+}
+
+#main h1{
+    color: darkblue;
+    font-size: 40px;
+    padding-top: 10%;
+    margin-bottom: 30px;
+}
+#main{
+    font-size: 18px;
+}
+ input[type="email"]{
+    font-size: 15px;
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+ }
+ button{
+    padding: 10px;
+    background-color:darkslateblue;
+    margin-bottom: 5px;
+    width: 83%;
+    border-radius: 10px;
+
+ }
+ button:hover{
+    background-color:darkolivegreen;
+ }

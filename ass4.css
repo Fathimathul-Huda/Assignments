@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+    background-color: darkcyan;
+    padding: 10px;
+    
+}
+nav{
+    display: flex;
+    text-decoration: none;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    padding: 20px;
+}
+#content{
+    
+    padding: 20px;
+    text-align: center;
+}
+
+#side ,#main{
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    
+    
+}
+footer{
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+    margin-top:250px
+    
+
+}
